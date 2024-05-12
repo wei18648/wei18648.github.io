@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",#EXTINF-1CCTV1HD
+tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",#EXTINF-1CCTV1HD
 http://192.168.7.1:7000/udp/239.253.152.96:8550
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",#EXTINF-1CCTV2HD
+tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",#EXTINF-1CCTV2HD
 http://192.168.7.1:7000/udp/239.69.1.102:10250
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",#EXTINF-1CCTV3HD
+tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",#EXTINF-1CCTV3HD
 http://192.168.7.1:7000/udp/239.69.1.122:10370
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",#EXTINF-1CCTV4HD
+tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",#EXTINF-1CCTV4HD
 http://192.168.7.1:7000/udp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",#EXTINF-1CCTV4K
+tvg-id="" tvg-name="" tvg-logo="" group-title="央视",#EXTINF-1CCTV4K
 http://192.168.7.1:7000/udp/239.69.1.12:9712
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",#EXTINF-1CCTV5HD
+tvg-id="" tvg-name="" tvg-logo="" group-title="央视",#EXTINF-1CCTV5HD
 http://192.168.7.1:7000/udp/239.69.1.123:10376
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",#EXTINF-1CCTV5十HD
+tvg-id="" tvg-name="" tvg-logo="" group-title="央视",#EXTINF-1CCTV5十HD
 http://192.168.7.1:7000/udp/239.253.152.234:9484
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",#EXTINF-1CCTV6HD
+tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",#EXTINF-1CCTV6HD
 http://192.168.7.1:7000/udp/239.69.1.124:10382
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",#EXTINF-1CCTV7HD
 http://192.168.7.1:7000/udp/239.69.1.103:10256
