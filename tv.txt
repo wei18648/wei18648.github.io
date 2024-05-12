@@ -25,7 +25,7 @@ http://192.168.7.1:7000/udp/239.69.1.104:10262
 http://192.168.7.1:7000/udp/239.69.1.105:10268
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",#EXTINF-1CCTV11HD
 http://192.168.7.1:7000/udp/239.69.1.154:10560
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",#EXTINF-1CCTV12HD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12HD
 http://192.168.7.1:7000/udp/239.69.1.106:10274
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",#EXTINF-1CCTV13HD
 http://192.168.7.1:7000/udp/239.253.152.161:9040
