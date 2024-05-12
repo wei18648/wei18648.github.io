@@ -55,7 +55,7 @@ http://192.168.7.1:7000/udp/239.69.1.42:9892
 http://192.168.7.1:7000/udp/239.69.1.43:9898
 #EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北",湖北公共HD
 http://192.168.7.1:7000/udp/239.69.1.40:9880
-#EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北"湖北影视HD
+#EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北",湖北影视HD
 http://192.168.7.1:7000/udp/239.69.1.204:10866
 #EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湖北",湖北教育HD
 http://192.168.7.1:7000/udp/239.69.1.206:10878
