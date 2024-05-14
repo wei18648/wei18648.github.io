@@ -7,7 +7,7 @@ http://192.168.7.1:7000/udp/239.69.1.102:10250
 http://192.168.7.1:7000/udp/239.69.1.122:10370
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4HD
 http://192.168.7.1:7000/udp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV4K
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K
 http://192.168.7.1:7000/udp/239.69.1.12:9712
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5HD
 http://192.168.7.1:7000/udp/239.69.1.123:10376
