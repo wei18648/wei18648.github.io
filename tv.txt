@@ -47,6 +47,12 @@ http://192.168.7.1:7000/udp/239.69.1.242:11094
 http://192.168.7.1:7000/udp/239.69.1.243:11100
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",兵器科技HD
 http://192.168.7.1:7000/udp/239.69.1.79:10114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育1HD
+http://192.168.7.1:7000/udp/239.69.1.110:10298
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育2
+http://192.168.7.1:7000/udp/239.69.1.183:10734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育4
+http://192.168.7.1:7000/udp/239.69.1.175:10686
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北经视HD
 http://192.168.7.1:7000/udp/239.69.1.41:9886
 #EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合HD
@@ -113,22 +119,12 @@ http://192.168.7.1:7000/udp/239.69.1.193:10800
 http://192.168.7.1:7000/udp/239.69.1.248:11130
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD
 http://192.168.7.1:7000/udp/239.69.1.109:10292
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育1HD
-http://192.168.7.1:7000/udp/239.69.1.110:10298
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际欧洲HD
 http://192.168.7.1:7000/udp/239.69.1.231:11028
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际美洲HD
 http://192.168.7.1:7000/udp/239.69.1.232:11034
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英文纪录HD
 http://192.168.7.1:7000/udp/239.69.1.233:11040
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语HD
-http://192.168.7.1:7000/udp/239.69.1.234:11046
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语HD
-http://192.168.7.1:7000/udp/239.69.1.235:11052
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语HD
-http://192.168.7.1:7000/udp/239.69.1.221:10968
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语HD
-http://192.168.7.1:7000/udp/239.69.1.222:10974
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://192.168.7.1:7000/udp/239.253.152.3:7992
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -159,8 +155,6 @@ http://192.168.7.1:7000/udp/239.253.152.7:8016
 http://192.168.7.1:7000/udp/239.69.1.153:10554
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球HD
 http://192.168.7.1:7000/udp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖北",湖北经视
-http://192.168.7.1:7000/udp/239.253.152.178:9148
 #EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
 http://192.168.7.1:7000/udp/239.253.152.177:9142
 #EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北",湖北垄上
@@ -179,8 +173,6 @@ http://192.168.7.1:7000/udp/239.253.152.1:7980
 http://192.168.7.1:7000/udp/239.69.1.173:10674
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视FHD
 http://192.168.7.1:7000/udp/239.69.1.174:10680
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
-http://192.168.7.1:7000/udp/239.253.152.15:8064
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.7.1:7000/udp/239.253.152.18:8082
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
@@ -251,10 +243,6 @@ http://192.168.7.1:7000/udp/239.253.152.189:9214
 http://192.168.7.1:7000/udp/239.69.1.171:10662
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://192.168.7.1:7000/udp/239.69.1.127:10400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育2
-http://192.168.7.1:7000/udp/239.69.1.183:10734
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育4
-http://192.168.7.1:7000/udp/239.69.1.175:10686
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
 http://192.168.7.1:7000/udp/239.69.1.228:11010
 #EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
@@ -305,41 +293,31 @@ http://192.168.7.1:7000/udp/239.69.1.187:10764
 http://192.168.7.1:7000/udp/239.69.1.86:10156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",书画
 http://192.168.7.1:7000/udp/239.69.1.189:10776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌综合
 http://192.168.7.1:7000/udp/239.253.152.153:8992
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌旅游生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌旅游生活
 http://192.168.7.1:7000/udp/239.253.152.224:9424
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌综合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌综合HD
 http://192.168.7.1:7000/udp/239.69.1.67:10042
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌旅游生活HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌旅游生活HD
 http://192.168.7.1:7000/udp/239.69.1.75:10090
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试频道1HD
-http://192.168.7.1:7000/udp/239.69.1.177:10698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌当阳综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌当阳综合
 http://192.168.7.1:7000/udp/239.69.1.9:9694
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌五峰综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌五峰综合
 http://192.168.7.1:7000/udp/239.69.1.38:9868
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",远安综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",远安综合
 http://192.168.7.1:7000/udp/239.69.1.101:10244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",应城新闻党建
-http://192.168.7.1:7000/udp/239.69.1.37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",巴东新闻HD
-http://192.168.7.1:7000/udp/239.69.1.37:9862
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",通城新闻综合
-http://192.168.7.1:7000/udp/239.69.1.37:9862
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",丹江口新闻频道HD
-http://192.168.7.1:7000/udp/239.69.1.37:9862
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌夷陵综合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌夷陵综合HD
 http://192.168.7.1:7000/udp/239.69.1.238:11070
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌秭归新闻综合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌秭归新闻综合HD
 http://192.168.7.1:7000/udp/239.69.1.239:11076
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌枝江综合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌枝江综合HD
 http://192.168.7.1:7000/udp/239.69.1.240:11082
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌长阳综合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌长阳综合HD
 http://192.168.7.1:7000/udp/239.69.1.246:11118
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌兴山综合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌兴山综合HD
 http://192.168.7.1:7000/udp/239.69.1.250:11142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黄石阳新新闻HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",黄石阳新新闻HD
 http://192.168.7.1:7000/udp/239.69.1.34:9844
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活
 http://192.168.7.1:7000/udp/239.69.1.176:10692
