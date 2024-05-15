@@ -165,20 +165,8 @@ http://192.168.7.1:7000/udp/239.253.152.13:8052
 http://192.168.7.1:7000/udp/239.253.152.7:8016
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://192.168.7.1:7000/udp/239.69.1.153:10554
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球HD
-http://192.168.7.1:7000/udp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湖北",湖北综合
-http://192.168.7.1:7000/udp/239.253.152.177:9142
-#EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湖北",湖北垄上
-http://192.168.7.1:7000/udp/239.253.152.184:9184
-#EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湖北",湖北公共
-http://192.168.7.1:7000/udp/239.253.152.179:9154
 #EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湖北",湖北影视
 http://192.168.7.1:7000/udp/239.253.152.182:9172
-#EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湖北",湖北教育
-http://192.168.7.1:7000/udp/239.253.152.180:9160
-#EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湖北",湖北生活
-http://192.168.7.1:7000/udp/239.253.152.181:9166
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://192.168.7.1:7000/udp/239.253.152.1:7980
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视FHD
@@ -261,10 +249,6 @@ http://192.168.7.1:7000/udp/239.69.1.228:11010
 http://192.168.7.1:7000/udp/239.253.152.192:9232
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学频道
 http://192.168.7.1:7000/udp/239.253.152.194:9244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫生健康
-http://192.168.7.1:7000/udp/239.253.152.207:9322
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",靓妆
-http://192.168.7.1:7000/udp/239.253.152.208:9328
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.7.1:7000/udp/239.253.152.210:9340
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓HD
