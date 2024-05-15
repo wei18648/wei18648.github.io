@@ -291,6 +291,8 @@ http://192.168.7.1:7000/udp/239.69.1.101:10244
 http://192.168.7.1:7000/udp/239.69.1.238:11070
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌秭归新闻综合HD
 http://192.168.7.1:7000/udp/239.69.1.239:11076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜都综合HD
+http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌枝江综合HD
 http://192.168.7.1:7000/udp/239.69.1.240:11082
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宜昌县级",宜昌长阳综合HD
